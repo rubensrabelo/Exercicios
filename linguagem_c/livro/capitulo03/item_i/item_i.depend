@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1625683445 source:c:\users\pastor\3d objects\estudos\exercicios\linguagem_c\livro\capitulo03\item_i\main.c
+	<stdio.h>
+	<math.h>
+
